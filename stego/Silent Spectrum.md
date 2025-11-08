@@ -37,7 +37,7 @@ for i in range(0, len(bits), 8):
 
 print("Recovered flag:", flag)
 ```
-Run this script using python <filename>.py
+Run this script using python filename.py
 ## Flag
 
     bab{cyber_peace_secure_governance}
