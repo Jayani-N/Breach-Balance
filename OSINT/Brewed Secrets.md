@@ -11,6 +11,8 @@
 
 ## Solution:
 
+    Upon uploading the image through google lens, we get to know that the cafe is in Cape Town. Upon carefully going through the list of cafes in Cape Town we find that it is called Truth       Coffee Roasting.
+
 ## Flag:
 
     bab{truth_coffee_roasting_cape_town}
